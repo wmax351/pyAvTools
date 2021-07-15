@@ -4,6 +4,8 @@ MakerPlane Aviation Module Tool Kit
 
 Copyright (c) 2019 MakerPlane
 
+This is an experimental system, and is not suited for primary or backup flight/engine instrumentation or navigation. Use at your own risk.
+
 pyAvTools is an open source aviation tool kit, providing useful modules for Python based
 Aviation apps, including:
     * Data management package for charting objects
